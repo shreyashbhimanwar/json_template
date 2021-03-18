@@ -1,16 +1,24 @@
-{
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
-}
+[
+  {
+    title: "IRONMAN",
+    author: "Shreyash",
+    url: "https://www.amazon.in/Trunkin-Solar-Powered-BOBBLEHEAD-Multicolor/dp/B07PTT5D6W/ref=sr_1_2?dchild=1&keywords=ironman&qid=1616100629&sr=8-2",
+    image: "https://marvelcinematicuniverse.fandom.com/wiki/Iron_Man?file=IronMan-EndgameProfile.jpg",
+  },
+  
+  
+  {
+    title: "Minion",
+    author: "Aniket",
+    url: "https://www.amazon.in/popo-Minion-Soft-Toy-Kids/dp/B07PXF1W78/ref=sr_1_15?dchild=1&keywords=minion&qid=1616100734&sr=8-15",
+    image: "https://despicableme.fandom.com/wiki/Bob?file=Bob-from-the-minions-movie.jpg",
+  },
+  
+  
+  {
+    title: "Hagimaru",
+    author: "Praveen",
+    url: "https://www.amazon.in/Blaze-Manual-Bullet-Shooting-Multicolor/dp/B07STZKD84/ref=sr_1_3?dchild=1&keywords=hagemaru+toy&qid=1616100837&sr=8-3",
+    image: "https://tsurupika-hagemaru.fandom.com/wiki/Hagemaru_Hageda?file=Aaaa.jpg",
+  },
+]
